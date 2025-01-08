@@ -8,7 +8,7 @@ let attendedPreviousClass = false
 
 function checkClassAccess(hasSubmittedAssignment, attendedPreviousClass) {
   if (hasSubmittedAssignment && attendedPreviousClass) {
-    console.log("Access granted, you can attend")
+    console.log("Access granted, you can attend the class")
   }
 
   else {
