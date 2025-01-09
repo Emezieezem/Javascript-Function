@@ -1,3 +1,4 @@
+#Javascript Function
 The function "checkClassAccess" accepts two parameters: hasSubmittedAssignment and  attendedPreviousClass.
    - It checks if both conditions are true using an if statement:
      - If both conditions are true, it grants access (prints "Access granted to the class. You can attend.").
