@@ -1,5 +1,5 @@
 let hasSubmittedAssignment = true   //declaring variable that holds a boolean value
-let attendedPreviousClass = false
+let attendedPreviousClass = true
 
 
 // Function to check if access to a class is granted
